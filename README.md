@@ -1,3 +1,3 @@
-# PhytonCaseStudy
+# PythonCaseStudy
 
-#5 Case studies worked in Phyton.
+# 5 Case studies worked in Python.
